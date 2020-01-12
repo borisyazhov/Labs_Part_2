@@ -1,0 +1,7 @@
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\bin\Debug\Lab14(DelegateArray).exe.config
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\bin\Debug\Lab14(DelegateArray).exe
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\bin\Debug\Lab14(DelegateArray).pdb
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\obj\Debug\Lab14(DelegateArray).csprojAssemblyReference.cache
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\obj\Debug\Lab14(DelegateArray).csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\obj\Debug\Lab14(DelegateArray).exe
+C:\Users\37533\Desktop\Labs for KPYAP\Lab14(DelegateArray)\Lab14(DelegateArray)\obj\Debug\Lab14(DelegateArray).pdb
